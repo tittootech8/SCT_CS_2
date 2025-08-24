@@ -33,7 +33,7 @@ python image_encryption_tool.py
 
 
 
-🖥️ Usage
+##🖥️ Usage
 -Launch the tool.
 -Browse & load an image.
 -Select encryption method.
