@@ -31,7 +31,7 @@ git clone https://github.com/<your-username>/Image-Encryption-Tool.git
 cd Image-Encryption-Tool
 python image_encryption_tool.py
 
-
+```
 
 ##🖥️ Usage
 -Launch the tool.
