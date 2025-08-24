@@ -27,7 +27,7 @@ pip install pillow numpy
 
 #Clone the repo and run:
 
-git clone https://github.com/<your-username>/Image-Encryption-Tool.git
+git clone https://github.com/tittootech8/SCT_CS_2.git
 cd Image-Encryption-Tool
 python image_encryption_tool.py
 
